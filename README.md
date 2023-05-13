@@ -1,6 +1,10 @@
-# ZQ vapour essent se cfw
+# ZQ vapor essent se cfw
 
 Your favourite color is not available? No problem!
+
+the screen is a tft0096-8 80x160 spi lcd from winstar
+
+the mcu is STM32G031GxU UFQFPN28
 
 Dump your own firmware over *SWD* using the 3 handy (coated) vias near the Inductor!
 
