@@ -15,3 +15,6 @@ connect SWCLK to the lowest, SWDIO to the middle one and 3.3V to the top one
 In ST-Link utility, set reset mode to software system reset and set the dump size to 0x10000
 
 Happy reverse engineering.
+
+
+ZQ logo (64x31, 1bpp) logo pos: d758-d84f
